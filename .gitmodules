@@ -2473,3 +2473,417 @@
 [submodule "Template-App-Barman-(Open-Future-Belgium)-/repo"]
 	path = Template-App-Barman-(Open-Future-Belgium)-/repo
 	url = https://github.com/Open-Future-Belgium/zabbix-barman
+[submodule "Template-HW-Fujitsu-Eternus-(bitfag)/repo"]
+	path = Template-HW-Fujitsu-Eternus-(bitfag)/repo
+	url = https://github.com/bitfag/zabbix-template-fujitsu-eternus
+[submodule "Template-App-nfsiostat-(udomsak)/repo"]
+	path = Template-App-nfsiostat-(udomsak)/repo
+	url = https://github.com/udomsak/zbx-nfsiostat-sysstat
+[submodule "Integration-Template-Converter-(cavaliercoder)/repo"]
+	path = Integration-Template-Converter-(cavaliercoder)/repo
+	url = https://github.com/cavaliercoder/zabbix-template-converter
+[submodule "Module-IPC-(i-ky)/repo"]
+	path = Module-IPC-(i-ky)/repo
+	url = https://github.com/i-ky/zaipcs
+[submodule "Script-Alert-Rocket-Chat-(Open-Future-Belgium)/repo"]
+	path = Script-Alert-Rocket-Chat-(Open-Future-Belgium)/repo
+	url = https://github.com/Open-Future-Belgium/zabbix-Rocket.Chat
+[submodule "Template-HW-HP-MSA-(asand3r)/repo"]
+	path = Template-HW-HP-MSA-(asand3r)/repo
+	url = https://github.com/asand3r/zbx-hpmsa
+[submodule "Template-HW-Asus-ADSL-modem-(mkgin)/repo"]
+	path = Template-HW-Asus-ADSL-modem-(mkgin)/repo
+	url = https://github.com/mkgin/zabbix_TEMPLATE_asuswrt_adsl
+[submodule "Template-HW-Dell-FS12-TY-(kometchtech)/repo"]
+	path = Template-HW-Dell-FS12-TY-(kometchtech)/repo
+	url = https://github.com/kometchtech/Zabbix_IPMI
+[submodule "Template-HW-Dell-CS24-TY-(kometchtech)/repo"]
+	path = Template-HW-Dell-CS24-TY-(kometchtech)/repo
+	url = https://github.com/kometchtech/Zabbix_IPMI
+[submodule "Template-HW-HP-ML110G6-(kometchtech)/repo"]
+	path = Template-HW-HP-ML110G6-(kometchtech)/repo
+	url = https://github.com/kometchtech/Zabbix_IPMI
+[submodule "Template-HW-Supermicro-X10SLL-F-(JanKoppe)/repo"]
+	path = Template-HW-Supermicro-X10SLL-F-(JanKoppe)/repo
+	url = https://github.com/JanKoppe/zabbix-supermicro-x10sll-f
+[submodule "Template-HW-HW-IBM-IMM2-SNMP-(allburov)/repo"]
+	path = Template-HW-HW-IBM-IMM2-SNMP-(allburov)/repo
+	url = https://github.com/allburov/zabbix-ibm-server-imm2
+[submodule "Template-HW-IBM-IMM2-SNMP-(allburov)/repo"]
+	path = Template-HW-IBM-IMM2-SNMP-(allburov)/repo
+	url = https://github.com/allburov/zabbix-ibm-server-imm2
+[submodule "Template-Database-Galera-(MogiePete)/repo"]
+	path = Template-Database-Galera-(MogiePete)/repo
+	url = https://github.com/MogiePete/zabbix-galera-template
+[submodule "Template-App-Openswan-Strongswan-IPSEC-(a-schild)/repo"]
+	path = Template-App-Openswan-Strongswan-IPSEC-(a-schild)/repo
+	url = https://github.com/a-schild/zabbix-ipsec
+[submodule "Integration-Terraform-AWS-ECS-(ThomasVdBerge)/repo"]
+	path = Integration-Terraform-AWS-ECS-(ThomasVdBerge)/repo
+	url = https://github.com/ThomasVdBerge/zabbix-docker-terraform
+[submodule "Template-App-TeamD-(MogiePete)/repo"]
+	path = Template-App-TeamD-(MogiePete)/repo
+	url = https://github.com/MogiePete/zabbix-teamd-template
+[submodule "Template-App-Azure-(Azure-Samples)/repo"]
+	path = Template-App-Azure-(Azure-Samples)/repo
+	url = https://github.com/Azure-Samples/azure-zabbix-templates
+[submodule "Template-App-CommuniGate-(pdacity)/repo"]
+	path = Template-App-CommuniGate-(pdacity)/repo
+	url = https://github.com/pdacity/cgp_snmp_zabbix
+[submodule "Template-App-OpenShift-(wkulhanek)/repo"]
+	path = Template-App-OpenShift-(wkulhanek)/repo
+	url = https://github.com/wkulhanek/openshift-zabbix
+[submodule "Template-App-Palo-Alto-(anotherbhav)/repo"]
+	path = Template-App-Palo-Alto-(anotherbhav)/repo
+	url = https://github.com/anotherbhav/zabbix-templates
+[submodule "Template-App-Apt-(theranger)/repo"]
+	path = Template-App-Apt-(theranger)/repo
+	url = https://github.com/theranger/zabbix-apt
+[submodule "Template-App-Device42-(device42)/repo"]
+	path = Template-App-Device42-(device42)/repo
+	url = https://github.com/device42/Device42-zabbix-monitoring-template
+[submodule "Script-Nessus-(Ar0xA)/repo"]
+	path = Script-Nessus-(Ar0xA)/repo
+	url = https://github.com/Ar0xA/Nessus2Zabbix
+[submodule "Template-App-Vuls-(usiusi360)/repo"]
+	path = Template-App-Vuls-(usiusi360)/repo
+	url = https://github.com/usiusi360/vuls_autoscan_for_zabbix
+[submodule "Template-App-Mercury-power-meter-(v-zhuravlev)/repo"]
+	path = Template-App-Mercury-power-meter-(v-zhuravlev)/repo
+	url = https://github.com/v-zhuravlev/zbx_template_mercury236
+[submodule "Template-OS-Solaris-(kloczek)/repo"]
+	path = Template-OS-Solaris-(kloczek)/repo
+	url = https://github.com/kloczek/zabbix-templates
+[submodule "Template-App-Kaspersky-Security-Center-(zbx-sadman)/repo"]
+	path = Template-App-Kaspersky-Security-Center-(zbx-sadman)/repo
+	url = https://github.com/zbx-sadman/KSC
+[submodule "Template-Database-Oracle-(alexander-nesterov)/repo"]
+	path = Template-Database-Oracle-(alexander-nesterov)/repo
+	url = https://github.com/alexander-nesterov/zabbix_module_oracle
+[submodule "Template-HW-QSAN-(pronichev)/repo"]
+	path = Template-HW-QSAN-(pronichev)/repo
+	url = https://github.com/pronichev/QSAN-Zabbix
+[submodule "Template-HW-Samsunsg-SSD-(vargaloid)/repo"]
+	path = Template-HW-Samsunsg-SSD-(vargaloid)/repo
+	url = https://github.com/vargaloid/zabbix_template_samsung.ssd.smart
+[submodule "Template-HW-Ubiquiti-UniFi-NVR-(stfalcon-studio)/repo"]
+	path = Template-HW-Ubiquiti-UniFi-NVR-(stfalcon-studio)/repo
+	url = https://github.com/stfalcon-studio/zabbix-unifi-video
+[submodule "Template-SW-macOS-High-Sierra-Content-Cache-(nugget)/repo"]
+	path = Template-SW-macOS-High-Sierra-Content-Cache-(nugget)/repo
+	url = https://github.com/nugget/zbx-macos-content-cache
+[submodule "Template-SW-entropy-monitor-(mkgin)/repo"]
+	path = Template-SW-entropy-monitor-(mkgin)/repo
+	url = https://github.com/mkgin/zabbix_available_entropy
+[submodule "Template-HW-Ruckus-ZoneDirector-(rggassner)/repo"]
+	path = Template-HW-Ruckus-ZoneDirector-(rggassner)/repo
+	url = https://github.com/rggassner/gassnerZabbixTemplates
+[submodule "Template-App-Hadoop-(daququ)/repo"]
+	path = Template-App-Hadoop-(daququ)/repo
+	url = https://github.com/daququ/zabbix_hadoop_monitoring
+[submodule "Script-SNMP-Trap-Template-Generator-(Diwahars)/repo"]
+	path = Script-SNMP-Trap-Template-Generator-(Diwahars)/repo
+	url = https://github.com/Diwahars/zbx_snmptrap_templates_creation
+[submodule "Template-HW-Eltex-SMG-2016-(nifigator)/repo"]
+	path = Template-HW-Eltex-SMG-2016-(nifigator)/repo
+	url = https://github.com/nifigator/smg-zabbix-template
+[submodule "Template-App-Docker-NG-(monitoringartist)/repo"]
+	path = Template-App-Docker-NG-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zabbix-docker-monitoring-ng
+[submodule "Template-App-SSH-Sessions-(scysys)/repo"]
+	path = Template-App-SSH-Sessions-(scysys)/repo
+	url = https://github.com/scysys/Zabbix--Monitor-SSH-Sessions
+[submodule "API-Crystal-(DRVTiny)/repo"]
+	path = API-Crystal-(DRVTiny)/repo
+	url = https://github.com/DRVTiny/monitoring_zabipi
+[submodule "Challenge-Zabbix-Agent-NVPS-(monitoringartist)/repo"]
+	path = Challenge-Zabbix-Agent-NVPS-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zabbix-agent-nvps-challenge
+[submodule "Template-App-Facebook-Insights-(bezarsnba)/repo"]
+	path = Template-App-Facebook-Insights-(bezarsnba)/repo
+	url = https://github.com/bezarsnba/monitoring_insight_facebook_zabbix
+[submodule "Script-Alert-Philips-Hue-(christopwner)/repo"]
+	path = Script-Alert-Philips-Hue-(christopwner)/repo
+	url = https://github.com/christopwner/zabbix-hue-alertscript
+[submodule "Template-App-AWS-(tsubauaaa)/repo"]
+	path = Template-App-AWS-(tsubauaaa)/repo
+	url = https://github.com/tsubauaaa/zabbix_aws_integration
+[submodule "Template-App-FFmpeg-Chunks-(igogorevi4)/repo"]
+	path = Template-App-FFmpeg-Chunks-(igogorevi4)/repo
+	url = https://github.com/igogorevi4/Zabbix-Extensions
+[submodule "Template-App-Jenkins-Job-(igogorevi4)/repo"]
+	path = Template-App-Jenkins-Job-(igogorevi4)/repo
+	url = https://github.com/igogorevi4/Zabbix-Extensions
+[submodule "Template-App-Tarantool-(igogorevi4)/repo"]
+	path = Template-App-Tarantool-(igogorevi4)/repo
+	url = https://github.com/igogorevi4/Zabbix-Extensions
+[submodule "Template-App-WebSockets-(igogorevi4)/repo"]
+	path = Template-App-WebSockets-(igogorevi4)/repo
+	url = https://github.com/igogorevi4/Zabbix-Extensions
+[submodule "Template-UPS-Tripp-Lite-(reperio)/repo"]
+	path = Template-UPS-Tripp-Lite-(reperio)/repo
+	url = https://github.com/reperio/zabbix-snmp-tripp-lite-ups-pdu
+[submodule "Template-App-Kamailio-(reperio)/repo"]
+	path = Template-App-Kamailio-(reperio)/repo
+	url = https://github.com/reperio/zabbix-kazoo-kamailio
+[submodule "Template-App-LVM-(radiorabe)/repo"]
+	path = Template-App-LVM-(radiorabe)/repo
+	url = https://github.com/radiorabe/rabe-zabbix
+[submodule "Template-App-CARP-(radiorabe)/repo"]
+	path = Template-App-CARP-(radiorabe)/repo
+	url = https://github.com/radiorabe/rabe-zabbix
+[submodule "Template-App-MD-RAID-(radiorabe)/repo"]
+	path = Template-App-MD-RAID-(radiorabe)/repo
+	url = https://github.com/radiorabe/rabe-zabbix
+[submodule "Template-App-Chrony-(radiorabe)/repo"]
+	path = Template-App-Chrony-(radiorabe)/repo
+	url = https://github.com/radiorabe/rabe-zabbix
+[submodule "Template-App-NTP-(radiorabe)/repo"]
+	path = Template-App-NTP-(radiorabe)/repo
+	url = https://github.com/radiorabe/rabe-zabbix
+[submodule "Template-App-IPMI-Threshold-Sensors-(radiorabe)/repo"]
+	path = Template-App-IPMI-Threshold-Sensors-(radiorabe)/repo
+	url = https://github.com/radiorabe/rabe-zabbix
+[submodule "Script-Alert-Asterisk-(mcilley)/repo"]
+	path = Script-Alert-Asterisk-(mcilley)/repo
+	url = https://github.com/mcilley/asterisk-zabbix-phone-escalation
+[submodule "Template-HW-Eltex-MES-(Prototype-X)/repo"]
+	path = Template-HW-Eltex-MES-(Prototype-X)/repo
+	url = https://github.com/Prototype-X/Zabbix-Template-for-Eltex-MES-switches
+[submodule "Script-Alert-StackStorm-(StackStorm-Exchange)/repo"]
+	path = Script-Alert-StackStorm-(StackStorm-Exchange)/repo
+	url = https://github.com/StackStorm-Exchange/stackstorm-zabbix
+[submodule "Template-HW-CPU-temperature-(B1T0)/repo"]
+	path = Template-HW-CPU-temperature-(B1T0)/repo
+	url = https://github.com/B1T0/zabbix-basic-cpu-temperature
+[submodule "Template-App-VEEAM-(romainsi)/repo"]
+	path = Template-App-VEEAM-(romainsi)/repo
+	url = https://github.com/romainsi/zabbix-VEEAM_B-R_jobs_trapper
+[submodule "Template-App-Microsoft-DHCP-Server-Scope-(romainsi)/repo"]
+	path = Template-App-Microsoft-DHCP-Server-Scope-(romainsi)/repo
+	url = https://github.com/romainsi/zabbix-dhcp_scope
+[submodule "Template-App-Windows-Scheduled-Task-(romainsi)/repo"]
+	path = Template-App-Windows-Scheduled-Task-(romainsi)/repo
+	url = https://github.com/romainsi/zabbix-scheduledtask
+[submodule "Template-App-Symantec-Backup-Exec-(romainsi)/repo"]
+	path = Template-App-Symantec-Backup-Exec-(romainsi)/repo
+	url = https://github.com/romainsi/zabbix-BackupExec-jobs
+[submodule "Template-HW-Luxtronik-(doppel0)/repo"]
+	path = Template-HW-Luxtronik-(doppel0)/repo
+	url = https://github.com/doppel0/Luxtronik-2.0
+[submodule "Template-App-Quest-Rapid-Recovery-(mRiston)/repo"]
+	path = Template-App-Quest-Rapid-Recovery-(mRiston)/repo
+	url = https://github.com/mRiston/zabbix_template_RapidRecoveryCore
+[submodule "Template-App-Microsoft-Message-Queue-(kyuknis)/repo"]
+	path = Template-App-Microsoft-Message-Queue-(kyuknis)/repo
+	url = https://github.com/kyuknis/Zabbix_MSMQ_Monitor
+[submodule "Template-Database-Cassandra-(m0t0k1ch1)/repo"]
+	path = Template-Database-Cassandra-(m0t0k1ch1)/repo
+	url = https://github.com/m0t0k1ch1/zabbix-cassandra-template
+[submodule "Template-VM-SolusVM-(qwsj)/repo"]
+	path = Template-VM-SolusVM-(qwsj)/repo
+	url = https://github.com/qwsj/solusvm-zabbix
+[submodule "Template-App-OpenNebula-(kvaps)/repo"]
+	path = Template-App-OpenNebula-(kvaps)/repo
+	url = https://github.com/kvaps/opennebula-addon-zabbix
+[submodule "Template-App-SSL-(zarplata)/repo"]
+	path = Template-App-SSL-(zarplata)/repo
+	url = https://github.com/zarplata/zabbix-agent-extension-certchecker
+[submodule "Template-HW-Fujitsu-(kagerman)/repo"]
+	path = Template-HW-Fujitsu-(kagerman)/repo
+	url = https://github.com/kagerman/Fujitsu-Zabbix
+[submodule "Script-Alert-Jira-(OSidorenkov)/repo"]
+	path = Script-Alert-Jira-(OSidorenkov)/repo
+	url = https://github.com/OSidorenkov/zabbix-jira
+[submodule "Integration-Google-Sheet-(monitoringartist)/repo"]
+	path = Integration-Google-Sheet-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/monitoring-for-managers
+[submodule "Template-App-Pivotal-Cloud-Foundry-(bmhkb4)/repo"]
+	path = Template-App-Pivotal-Cloud-Foundry-(bmhkb4)/repo
+	url = https://github.com/bmhkb4/zabbix-pcf-monitoring
+[submodule "Template-App-NFS-iostat-(pdacity)/repo"]
+	path = Template-App-NFS-iostat-(pdacity)/repo
+	url = https://github.com/pdacity/zabbix_nfs_client_iostat
+[submodule "Template-App-SonicMQ-(digiapulssi)/repo"]
+	path = Template-App-SonicMQ-(digiapulssi)/repo
+	url = https://github.com/digiapulssi/zabbix-sonicmq-monitoring
+[submodule "Template-App-OpenNebula-(OpenNebula)/repo"]
+	path = Template-App-OpenNebula-(OpenNebula)/repo
+	url = https://github.com/OpenNebula/addon-zabbix
+[submodule "Template-App-Crypto-Prices-(planethouki)/repo"]
+	path = Template-App-Crypto-Prices-(planethouki)/repo
+	url = https://github.com/planethouki/zabbixCryptoChart
+[submodule "Template-App-NethServer-Backups-(syntaxerrormmm)/repo"]
+	path = Template-App-NethServer-Backups-(syntaxerrormmm)/repo
+	url = https://github.com/syntaxerrormmm/zbx-nethbackup-check
+[submodule "Template-App-Supervisor-(gsskk)/repo"]
+	path = Template-App-Supervisor-(gsskk)/repo
+	url = https://github.com/gsskk/zabbix-supervisor
+[submodule "Script-Alert-Pushover-(afareg)/repo"]
+	path = Script-Alert-Pushover-(afareg)/repo
+	url = https://github.com/afareg/zabbix-pushover-alertscript
+[submodule "Script-WinPerfCounter-Template-Generator-(lxndrp)/repo"]
+	path = Script-WinPerfCounter-Template-Generator-(lxndrp)/repo
+	url = https://github.com/lxndrp/pdh2zabbix
+[submodule "Template-App-Forcepoint-(avbor)/repo"]
+	path = Template-App-Forcepoint-(avbor)/repo
+	url = https://github.com/avbor/Forcepoint
+[submodule "Template-App-Rocket-Chat-(tristanlt)/repo"]
+	path = Template-App-Rocket-Chat-(tristanlt)/repo
+	url = https://github.com/tristanlt/zabbix-rocketchat-stats
+[submodule "API-Julia-(rahulkp220)/repo"]
+	path = API-Julia-(rahulkp220)/repo
+	url = https://github.com/rahulkp220/Zabbix.jl
+[submodule "Script-Alert-Discord-(atomy)/repo"]
+	path = Script-Alert-Discord-(atomy)/repo
+	url = https://github.com/atomy/zabbix-discord
+[submodule "Template-App-Gluster-(sergiotocalini)/repo"]
+	path = Template-App-Gluster-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/glusix
+[submodule "Template-App-E2guardian-(xenadmin)/repo"]
+	path = Template-App-E2guardian-(xenadmin)/repo
+	url = https://github.com/xenadmin/zabbix-templates
+[submodule "Template-App-VMware-Tools-(xenadmin)/repo"]
+	path = Template-App-VMware-Tools-(xenadmin)/repo
+	url = https://github.com/xenadmin/zabbix-templates
+[submodule "Template-App-Bind-(sergiotocalini)/repo"]
+	path = Template-App-Bind-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/bindix
+[submodule "Template-Database-Oracle-(sergiotocalini)/repo"]
+	path = Template-Database-Oracle-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/zabora
+[submodule "Template-Database-MySQL-(sergiotocalini)/repo"]
+	path = Template-Database-MySQL-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/mysbix
+[submodule "Template-Database-PostgreSQL-(sergiotocalini)/repo"]
+	path = Template-Database-PostgreSQL-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/zapgix
+[submodule "Template-Database-MSSQL-(sergiotocalini)/repo"]
+	path = Template-Database-MSSQL-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/msqlix
+[submodule "Template-App-HAProxy-(sergiotocalini)/repo"]
+	path = Template-App-HAProxy-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/habbixy
+[submodule "Template-App-Elasticsearch-(sergiotocalini)/repo"]
+	path = Template-App-Elasticsearch-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/elasix
+[submodule "Template-App-Jenkins-(sergiotocalini)/repo"]
+	path = Template-App-Jenkins-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/jenkix
+[submodule "Template-App-OpenVPN-(sergiotocalini)/repo"]
+	path = Template-App-OpenVPN-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/zaovpn
+[submodule "Template-App-Logstash-(sergiotocalini)/repo"]
+	path = Template-App-Logstash-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/lostix
+[submodule "Template-Database-ArangoDB-(sergiotocalini)/repo"]
+	path = Template-Database-ArangoDB-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/aranix
+[submodule "Template-App-OpenLDAP-(sergiotocalini)/repo"]
+	path = Template-App-OpenLDAP-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/zaldap
+[submodule "Script-Alert-SignifAI-(SignifAi)/repo"]
+	path = Script-Alert-SignifAI-(SignifAi)/repo
+	url = https://github.com/SignifAi/notify-signifai-zabbix
+[submodule "Template-App-FreeNAS-11-(monotok)/repo"]
+	path = Template-App-FreeNAS-11-(monotok)/repo
+	url = https://github.com/monotok/zabbix-template-freenas11
+[submodule "Template-App-Hyper-V-Replication-(JeferCatarina)/repo"]
+	path = Template-App-Hyper-V-Replication-(JeferCatarina)/repo
+	url = https://github.com/JeferCatarina/zabbix_hyperv_replication
+[submodule "Integration-Cisco-UCS-Adapter-(IGNW)/repo"]
+	path = Integration-Cisco-UCS-Adapter-(IGNW)/repo
+	url = https://github.com/IGNW/zabbix-cisco-ucs-adapter
+[submodule "Integration-Windows-Management-Instrumentation---WMI-Connector-(13hakta)/repo"]
+	path = Integration-Windows-Management-Instrumentation---WMI-Connector-(13hakta)/repo
+	url = https://github.com/13hakta/zbxwmi
+[submodule "Script-Item-Value-From-CSV-(saumyajit)/repo"]
+	path = Script-Item-Value-From-CSV-(saumyajit)/repo
+	url = https://github.com/saumyajit/zabbix_item_from_csv
+[submodule "Integration-Reports-PDF-(kmpm)/repo"]
+	path = Integration-Reports-PDF-(kmpm)/repo
+	url = https://github.com/kmpm/zabbix-dynamic-pdf-report
+[submodule "Integration-Zabbix-Sender-Rust-(andreevlex)/repo"]
+	path = Integration-Zabbix-Sender-Rust-(andreevlex)/repo
+	url = https://github.com/andreevlex/zbx-sender-rs
+[submodule "Template-VM-VmWare-oVirt-(hudecof)/repo"]
+	path = Template-VM-VmWare-oVirt-(hudecof)/repo
+	url = https://github.com/hudecof/libzbxovirt
+[submodule "Integration-Firefox-Chrome-Extension-(mchugh19)/repo"]
+	path = Integration-Firefox-Chrome-Extension-(mchugh19)/repo
+	url = https://github.com/mchugh19/zabbix-vue
+[submodule "Template-HW-Nvidia-GPU-(plambe)/repo"]
+	path = Template-HW-Nvidia-GPU-(plambe)/repo
+	url = https://github.com/plambe/zabbix-nvidia-smi-multi-gpu
+[submodule "Template-HW-FlashMAX-SSD-(bloodia)/repo"]
+	path = Template-HW-FlashMAX-SSD-(bloodia)/repo
+	url = https://github.com/bloodia/Zabbix-Template-FlashMAX-PCIe-SSD
+[submodule "Template-App-SFTP-(omni-lchen)/repo"]
+	path = Template-App-SFTP-(omni-lchen)/repo
+	url = https://github.com/omni-lchen/zabbix-sftp
+[submodule "Template-App-Marathon-(omni-lchen)/repo"]
+	path = Template-App-Marathon-(omni-lchen)/repo
+	url = https://github.com/omni-lchen/zabbix-marathon
+[submodule "Template-App-Postal-(appsinet)/repo"]
+	path = Template-App-Postal-(appsinet)/repo
+	url = https://github.com/appsinet/postal-zabbix
+[submodule "Script-Alert-Zulip-(adambirds)/repo"]
+	path = Script-Alert-Zulip-(adambirds)/repo
+	url = https://github.com/adambirds/zabbix-to-zulip-script
+[submodule "Script-Alert-Cisco-Spark-(knightjoel)/repo"]
+	path = Script-Alert-Cisco-Spark-(knightjoel)/repo
+	url = https://github.com/knightjoel/zpark
+[submodule "Template-HW-Antminer-S9-(hwn123)/repo"]
+	path = Template-HW-Antminer-S9-(hwn123)/repo
+	url = https://github.com/hwn123/antminer-monitoring
+[submodule "Template-HW-Sonicwall-Email-Security-(keentonsas)/repo"]
+	path = Template-HW-Sonicwall-Email-Security-(keentonsas)/repo
+	url = https://github.com/keentonsas/zabbix-template-sonicwall-email-security
+[submodule "Script-AWS-(digiapulssi)/repo"]
+	path = Script-AWS-(digiapulssi)/repo
+	url = https://github.com/digiapulssi/zabbix-aws-monitoring
+[submodule "Template-HW-Nvidia-GPU-(derpaherk)/repo"]
+	path = Template-HW-Nvidia-GPU-(derpaherk)/repo
+	url = https://github.com/derpaherk/Zabbix-GPU-Monitoring
+[submodule "Template-HW-AMD-GPU-(derpaherk)/repo"]
+	path = Template-HW-AMD-GPU-(derpaherk)/repo
+	url = https://github.com/derpaherk/Zabbix-GPU-Monitoring
+[submodule "Template-App-LiteSpeed-(knownhost)/repo"]
+	path = Template-App-LiteSpeed-(knownhost)/repo
+	url = https://github.com/knownhost/zabbix-lsws
+[submodule "Template-App-Whois-(Flawioo)/repo"]
+	path = Template-App-Whois-(Flawioo)/repo
+	url = https://github.com/Flawioo/zabbix-template-whois-isp-name
+[submodule "Template-App-Miner-Claymore-(ph223)/repo"]
+	path = Template-App-Miner-Claymore-(ph223)/repo
+	url = https://github.com/ph223/zabbix_claymore_miner
+[submodule "Template-App-IBM-Integration-Bus-(digiapulssi)/repo"]
+	path = Template-App-IBM-Integration-Bus-(digiapulssi)/repo
+	url = https://github.com/digiapulssi/zabbix-iib-monitoring
+[submodule "Template-App-Blockchain-(limosek)/repo"]
+	path = Template-App-Blockchain-(limosek)/repo
+	url = https://github.com/limosek/cryptonote-zabbix
+[submodule "Template-App-Flume-(weldpua2008)/repo"]
+	path = Template-App-Flume-(weldpua2008)/repo
+	url = https://github.com/weldpua2008/zabbix-flume-template
+[submodule "Integration-InfluxDB-(old-dmitry)/repo"]
+	path = Integration-InfluxDB-(old-dmitry)/repo
+	url = https://github.com/old-dmitry/zbx2influx
+[submodule "Script-Alert-Matrix-(lordievader)/repo"]
+	path = Script-Alert-Matrix-(lordievader)/repo
+	url = https://github.com/lordievader/matrix-zabbix-bot
+[submodule "Template-HW-Adaptec-RAID-(GOID1989)/repo"]
+	path = Template-HW-Adaptec-RAID-(GOID1989)/repo
+	url = https://github.com/GOID1989/zbx-adaptec-raid
+[submodule "Template-App-Zimbra-(GOID1989)/repo"]
+	path = Template-App-Zimbra-(GOID1989)/repo
+	url = https://github.com/GOID1989/zbx-zimbra-stats
+[submodule "Template-HW-Marvell-RAID-(GOID1989)/repo"]
+	path = Template-HW-Marvell-RAID-(GOID1989)/repo
+	url = https://github.com/GOID1989/zbx-marvell-raid
+[submodule "Template-HW-WD-MyCloud-EX4-(GOID1989)/repo"]
+	path = Template-HW-WD-MyCloud-EX4-(GOID1989)/repo
+	url = https://github.com/GOID1989/zbx-wdmycloudex4
+[submodule "Template-App-Symantec-BE-(GOID1989)/repo"]
+	path = Template-App-Symantec-BE-(GOID1989)/repo
+	url = https://github.com/GOID1989/zbx-symantec-be
